@@ -1,8 +1,8 @@
-Command Line Todo application
-=============================
-
-Command line arguments:
- -l   Lists all the tasks
- -a   Adds a new task
- -r   Removes an task
- -c   Completes an task
+				"Command Line Todo application\n" +
+                "=============================\n" +
+                "\n" +
+                "Command line arguments:\n" +
+                "-l   Lists all the tasks\n" +
+                "-a   Adds a new task\n" +
+                "-r   Removes a task\n" +
+                "-c   Completes a task");

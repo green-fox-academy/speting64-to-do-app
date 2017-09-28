@@ -10,7 +10,7 @@ public class Main {
     public static void writeLines(Path myPath) {
 
         //Path myPath = Paths.get("C://Users/Viktorlukács/TodoApp/src/printusage.txt");
-        myPath = Paths.get("/src/printusage.txt");
+        myPath = Paths.get("C:/Users/Viktorlukács/greenfox/speting64-todo-app/src/printusage.txt");
 
         try {
             ArrayList<String> lines = new ArrayList<>(Files.readAllLines(myPath));
