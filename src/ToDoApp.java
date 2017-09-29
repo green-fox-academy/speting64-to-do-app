@@ -65,7 +65,6 @@ public class ToDoApp {
 
             Scanner sc = new Scanner(System.in);
             String newInput = sc.nextLine();
-
             if (newInput.equals("")) {
                 one.openFile();
             }else if (newInput.substring(0, 2).equals("-a") && newInput.length() > 3) {
